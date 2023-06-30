@@ -1,6 +1,6 @@
 # ClientesApp
 
-###Este projeto foi implementado juntamente com o Cliente-Api.
+### Este projeto foi implementado juntamente com o Cliente-Api.
 
 Construido com o Angular v16.0. Aproveitando o recurso de componentização no projeto e a tecnologia do framework para criação da lógica.
 
